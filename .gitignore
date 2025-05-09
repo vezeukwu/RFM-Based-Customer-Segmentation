@@ -1,2 +1,5 @@
 Data/RFM_data.pkl  
 Notebooks/Cleaned_df.csv  
+venv/  
+__pycache__/  
+*.pyc  
