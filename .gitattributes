@@ -1,0 +1,2 @@
+Data/RFM_data.pkl filter=lfs diff=lfs merge=lfs -text
+Notebooks/Cleaned_df.csv filter=lfs diff=lfs merge=lfs -text
